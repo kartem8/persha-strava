@@ -6,7 +6,7 @@ Use this prompt in Lovable together with:
 - [Final_Synthesis_Pack_17April2026.md](./Final_Synthesis_Pack_17April2026.md)
 - [Codex_Consensus_Mentor_Pack.md](./Codex_Consensus_Mentor_Pack.md)
 - [Mentor_Data_Services_Validation_Brief.md](./Mentor_Data_Services_Validation_Brief.md)
-- [Hypothesis_Glossary_19.md](./Hypothesis_Glossary_19.md)
+- [Hypothesis_Glossary.md](./Hypothesis_Glossary.md)
 - [HANDOFF_CONTEXT.md](../HANDOFF_CONTEXT.md)
 
 ## Prompt
@@ -83,13 +83,12 @@ Important content requirements:
   - Codex
   - Claude Code
 - clearly state that outputs were compared and deduplicated
-- clearly state that the longlist was expanded with teammate ideas, not only AI outputs
 - show three groups of hypotheses:
   - core candidates
   - interesting non-obvious candidates
   - high-risk edge cases
 - directly under the hypothesis universe, add a compact `Hypothesis Glossary` block
-- the glossary must include the full expanded hypothesis universe, including teammate additions
+- the glossary must include the full current hypothesis universe
 - each glossary item should show:
   - the idea name in English
   - a short Ukrainian explanation of what it actually means

@@ -32,6 +32,7 @@ Cleaned briefs, mentor prep, and synthesis materials:
 - [Mentor_Data_Services_Validation_Brief.md](./03_synthesis/Mentor_Data_Services_Validation_Brief.md)
 - [Codex_Consensus_Mentor_Pack.md](./03_synthesis/Codex_Consensus_Mentor_Pack.md)
 - [Final_Synthesis_Pack_17April2026.md](./03_synthesis/Final_Synthesis_Pack_17April2026.md)
+- [Hypothesis_Glossary.md](./03_synthesis/Hypothesis_Glossary.md)
 
 ## Recommended Reading Order
 
@@ -40,7 +41,8 @@ If someone joins the project and needs context quickly:
 1. [HANDOFF_CONTEXT.md](./HANDOFF_CONTEXT.md)
 2. [03_synthesis/Final_Synthesis_Pack_17April2026.md](./03_synthesis/Final_Synthesis_Pack_17April2026.md)
 3. [03_synthesis/Codex_Consensus_Mentor_Pack.md](./03_synthesis/Codex_Consensus_Mentor_Pack.md)
-4. [03_synthesis/Mentor_Data_Services_Validation_Brief.md](./03_synthesis/Mentor_Data_Services_Validation_Brief.md)
+4. [03_synthesis/Hypothesis_Glossary.md](./03_synthesis/Hypothesis_Glossary.md)
+5. [03_synthesis/Mentor_Data_Services_Validation_Brief.md](./03_synthesis/Mentor_Data_Services_Validation_Brief.md)
 
 ## Current Working Shortlist
 

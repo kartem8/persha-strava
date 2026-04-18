@@ -245,7 +245,6 @@ This section should visually make it obvious that:
 - we explored broadly
 - we are already filtering
 - we are not overcommitting too early
-- the longlist includes both AI-generated and teammate-contributed ideas
 
 Also include a **Hypothesis Glossary** directly under this block.
 
