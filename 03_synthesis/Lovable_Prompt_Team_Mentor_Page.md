@@ -123,6 +123,17 @@ Important content requirements:
   - no board members
   - no contacts
   - no IT spend
+- in the competitor section, slightly widen the framing beyond only classic tracking apps:
+  - `TrainingPeaks`, `Intervals.icu`, `TrainerRoad` -> coaching and structured training
+  - `Ride with GPS` -> route planning utility
+  - `Zwift`, `ROUVY`, `MyWhoosh` -> virtual training
+  - `AllTrails` -> outdoor exploration
+  - `Tripadvisor` -> travel-discovery analog for `Strava Escapes`
+- add one short strategic note in that section:
+  - Strava's `2025` acquisitions of `Runna` and `Breakaway` suggest the company is already moving closer to structured coaching
+- keep this compact:
+  - do not turn the competitor block into a huge matrix
+  - this should strengthen credibility, not overload the page
 - explicitly show the key tension:
   - Corporate Wellness = strongest business case
   - Active Travel = strongest jury story

@@ -71,6 +71,31 @@
 - `komoot` доводить, що active travel / adventure planning є реальною платною потребою
 - `COROS` показує силу coach infrastructure
 
+### Що важливо додала команда до competitor scan
+
+Ми розширили конкурентне поле не лише трекінг-додатками, а й суміжними категоріями:
+
+- `TrainingPeaks`, `Intervals.icu`, `TrainerRoad` — coaching і structured training
+- `Ride with GPS` — utility для маршрутів
+- `Zwift`, `ROUVY`, `MyWhoosh` — virtual training
+- `AllTrails` — outdoor exploration
+- `Tripadvisor` — travel-discovery аналог для `Strava Escapes`
+
+Також важливий сигнал: Strava у `2025` придбала `Runna` і `Breakaway`.
+
+Що це означає:
+
+- напрям `coaching / structured training` став ще більш правдоподібним
+- але водночас він менш схожий на чистий `white-space expansion`, ніж `Escapes` або `Work`
+
+### Що корисно пам'ятати про сам продукт
+
+- Strava вже давно ширша за просто run / ride app
+- mobile app більше про tracking і feed
+- web-середовище сильніше в глибокій аналітиці, редагуванні активностей і route-building
+
+Це важливо, бо деякі нові гіпотези природніше лягають у mobile-first use case, а деякі — у змішану mobile + web модель
+
 ### Ключовий висновок по конкуренції
 
 Strava не має вигравати через `better tracking`.
@@ -196,7 +221,7 @@ Campus-версія Strava: спільноти університетів, rival
 ### Що ще варто тримати живим
 
 - `Creator Economy` — найцікавіший неочевидний варіант
-- `Strava Courts / Social Sports` — варто показати ментору як timely non-obvious bet
+- `Strava Courts / Social Sports` — варто показати ментору як timely non-obvious bet; після нового competitor research ця ідея виглядає трохи сильніше
 
 ## 7. Попередня рекомендація
 

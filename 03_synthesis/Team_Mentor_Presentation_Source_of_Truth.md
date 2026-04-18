@@ -271,6 +271,20 @@ Show the strongest insight summary from competitors:
 - komoot -> active travel and adventure planning is real and monetizable
 - COROS -> coach infrastructure is sticky
 
+Also widen the competitor framing slightly so it does not look too narrow.
+
+Add a short second layer of signals:
+
+- `TrainingPeaks`, `Intervals.icu`, `TrainerRoad` -> coaching and structured training workflows
+- `Ride with GPS` -> route-planning utility
+- `Zwift`, `ROUVY`, `MyWhoosh` -> virtual training / indoor platforms
+- `AllTrails` -> outdoor exploration behavior
+- `Tripadvisor` -> travel-discovery analog for `Strava Escapes`
+
+Add one short strategic note:
+
+- Strava's acquisitions of `Runna` and `Breakaway` in `2025` make coaching and structured training more credible as an adjacency, but also less of a true white-space expansion
+
 Key takeaway:
 
 Strava should not try to win by "better tracking."
