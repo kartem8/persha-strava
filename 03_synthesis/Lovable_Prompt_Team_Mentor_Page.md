@@ -53,26 +53,28 @@ Visual style:
 Page goal:
 Help a team and mentor quickly understand:
 1. what the assignment is
-2. what research has already been done
-3. which AI tools were used
-4. what idea clusters emerged
-5. what the current top 3 is
-6. what exactly should be validated tomorrow
-7. how the team will move from now to final defense
+2. basic context about Strava as a company and platform
+3. what research has already been done
+4. which AI tools were used
+5. what idea clusters emerged
+6. what the current top 3 is
+7. what exactly should be validated tomorrow
+8. how the team will move from now to final defense
 
 Must include these sections:
 1. Hero
 2. Why this page exists
-3. Assignment snapshot
-4. How we researched
-5. Competitor signals
-6. Hypothesis universe
-7. Current top 3
-8. Real decision tension
-9. Mentor validation plan
-10. Roadmap to final delivery
-11. Team workflow / source of truth
-12. Closing
+3. About Strava / company context
+4. Assignment snapshot
+5. How we researched
+6. Competitor signals
+7. Hypothesis universe
+8. Current top 3
+9. Real decision tension
+10. Mentor validation plan
+11. Roadmap to final delivery
+12. Team workflow / source of truth
+13. Closing
 
 Important content requirements:
 - explicitly mention the AI tools used:
@@ -103,6 +105,24 @@ Important content requirements:
   - route behavior
   - destination discovery signals
   - clubs and community activity across locations
+- add a compact `About Strava` block near the top with:
+  - updated Strava logo asset (the user will provide it)
+  - `2009 · Mark Gainey & Michael Horvath`
+  - `sträva` = `to strive`
+  - `Private company`
+  - `≈ $2.2B` valuation (2025)
+  - `≈ $500M` ARR (2025, media-estimated)
+  - `≈ 150M` registered users globally
+  - SimilarWeb context:
+    - `≈ 37.38M visits` in March 2026
+    - `+22.06%` month-over-month
+    - top geographies: US `20.95%`, UK `10.43%`, France `7.69%`, Germany `5.75%`, Brazil `5.04%`
+    - traffic mix: Direct `72.29%`, Organic `20.20%`, Social `3.47%`, Referrals `3.12%`
+- keep that block strategic and compact:
+  - no headcount
+  - no board members
+  - no contacts
+  - no IT spend
 - explicitly show the key tension:
   - Corporate Wellness = strongest business case
   - Active Travel = strongest jury story

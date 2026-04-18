@@ -24,13 +24,14 @@ It is a working strategic page for:
 The page should communicate:
 
 1. what the assignment is
-2. what research we already did
-3. which AI tools we used
-4. what hypothesis clusters emerged
-5. which 3 ideas we want to validate most
-6. which paid tools the mentor can help us use
-7. what exactly we need to check tomorrow
-8. how the team will move from hypothesis sprint to final delivery
+2. базовий контекст про Strava як компанію і продукт
+3. what research we already did
+4. which AI tools we used
+5. what hypothesis clusters emerged
+6. which 3 ideas we want to validate most
+7. which paid tools the mentor can help us use
+8. what exactly we need to check tomorrow
+9. how the team will move from hypothesis sprint to final delivery
 
 ## Tone
 
@@ -154,7 +155,72 @@ Short explanation:
 
 We are not choosing the final product direction blindly. This page captures the current state of our research, our top hypotheses, our open questions, and the exact validation plan for the mentor session.
 
-### 3. Assignment Snapshot
+### 3. About Strava / Коротко про Strava
+
+This section should give fast company context before the strategy discussion.
+
+Design guidance:
+
+- use the updated Strava logo asset that the user will provide
+- place the logo as a clean visual anchor on the left or above the fact grid
+- keep the block light and premium, not like a corporate profile dump
+- use compact fact cards, not long paragraphs
+
+Content guidance:
+
+- combine `founded` and `founders` into one card
+- keep only the facts that help strategic understanding
+- add a few high-signal SimilarWeb facts to show scale and geography
+- do not include noisy company-profile details like headcount, board, contacts, or IT spend
+
+Recommended fact cards:
+
+1. `Засновано`
+- `2009 · Mark Gainey & Michael Horvath`
+
+2. `Назва`
+- `sträva`
+- зі шведської: `прагнути` / `to strive`
+
+3. `Структура`
+- `Private company`
+- підтримка засновників та інвесторів
+
+4. `Оцінка (2025)`
+- `≈ $2.2B`
+- за даними публічних повідомлень
+
+5. `ARR (2025)`
+- `≈ $500M`
+- за оцінками медіа, не аудовано
+
+6. `Користувачі`
+- `≈ 150M`
+- registered users globally, за повідомленнями медіа
+
+7. `Web traffic (Mar 2026)`
+- `≈ 37.38M visits`
+- `+22.06%` month-over-month
+
+8. `Топ-географії`
+- `US 20.95%`
+- `UK 10.43%`
+- `France 7.69%`
+- `Germany 5.75%`
+- `Brazil 5.04%`
+
+9. `Traffic mix`
+- `Direct 72.29%`
+- `Organic 20.20%`
+- `Social 3.47%`
+- `Referrals 3.12%`
+
+Strategic interpretation line:
+
+- this block should make it obvious that Strava is already a large global platform with strong direct traffic and a geographically diversified audience
+- that context should quietly support why ideas like `Strava Escapes` are plausible
+
+### 4. Assignment Snapshot
 
 Show a compact block with:
 
@@ -162,7 +228,7 @@ Show a compact block with:
 - output: strategy + prototype + GTM + monetization + risks
 - immediate sprint goal: longlist -> top 3 -> one chosen hypothesis
 
-### 4. How We Researched
+### 5. How We Researched
 
 This section is important for trust.
 
@@ -194,7 +260,7 @@ Language note:
 - explanatory text should be in Ukrainian
 - AI tool names remain in English
 
-### 5. Competitor Signals
+### 6. Competitor Signals
 
 Show the strongest insight summary from competitors:
 
@@ -210,7 +276,7 @@ Key takeaway:
 Strava should not try to win by "better tracking."
 It needs to win through **social graph + identity + community + new use case**.
 
-### 6. Hypothesis Universe
+### 7. Hypothesis Universe
 
 Show three groups of hypotheses:
 
@@ -270,7 +336,7 @@ Important:
 - explain each idea as if the audience sees it for the first time
 - keep this block practical and scannable
 
-### 7. Current Top 3
+### 8. Current Top 3
 
 This is the most important section.
 
@@ -330,7 +396,7 @@ Language note:
 - hypothesis names may stay in English when clearer
 - supporting phrases should avoid mixed Ukrainian-English slang
 
-### 8. Real Decision Tension
+### 9. Real Decision Tension
 
 This section should explicitly show the strategic split:
 
@@ -341,7 +407,7 @@ And one line:
 
 Tomorrow's mentor session should help us decide whether we optimize for **business defensibility** or **final-project jury impact**.
 
-### 9. Mentor Validation Plan
+### 10. Mentor Validation Plan
 
 This section should be very practical.
 
