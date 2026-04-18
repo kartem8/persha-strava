@@ -161,6 +161,7 @@ Campus-версія Strava: спільноти університетів, rival
 
 **2. Strava Escapes / Active Travel**  
 Найсильніший jury story. Найкращий потенціал для wow-прототипу і візуальної презентації.
+Також це ідея, яка найкраще капіталізує на вже існуючій аудиторії Strava та накопичених route / heatmap / community data.
 
 **3. Strava Live / Race & Event Marketplace**  
 Найчистіша логічна adjacency і зрозумілий transactional revenue model.
@@ -188,6 +189,7 @@ Campus-версія Strava: спільноти університетів, rival
 
 - якщо дивитись на `jury / prototype / storytelling`, виграє `Active Travel`
 - якщо дивитись на `business / monetization / investor logic`, виграє `Corporate Wellness`
+- якщо дивитись на те, де Strava вже має найсильніший `audience + data moat`, теж виграє `Active Travel`
 
 ## 8. Що треба перевірити з ментором завтра
 

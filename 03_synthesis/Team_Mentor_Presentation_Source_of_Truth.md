@@ -304,6 +304,7 @@ Why it matters:
 - strongest wow-factor
 - strongest prototype potential
 - strongest route + community + destination fit
+- найкраще використовує вже наявний audience + data moat Strava: heatmaps, route data, clubs і глобальну базу активностей
 
 Main risk:
 

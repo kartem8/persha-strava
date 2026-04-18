@@ -85,6 +85,7 @@ Why I rank it first:
 - best balance of jury appeal, strategic fit, and prototype strength
 - strong competitor signal from `komoot`
 - clearly connected to Strava’s map, route, club, and identity assets
+- best use of Strava’s already existing audience and accumulated data layer: heatmaps, route behavior, destination signals, and global community activity
 - easier to make exciting without needing unrealistic infrastructure
 
 What must be proven:

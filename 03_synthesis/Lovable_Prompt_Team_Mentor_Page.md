@@ -99,6 +99,11 @@ Important content requirements:
   - Strava Work / Corporate Wellness
   - Strava Escapes / Active Travel
   - Race & Event Marketplace
+- make it clear inside the Top 3 logic that `Strava Escapes` is the idea that best uses Strava's existing audience and data moat:
+  - global heatmaps
+  - route behavior
+  - destination discovery signals
+  - clubs and community activity across locations
 - explicitly show the key tension:
   - Corporate Wellness = strongest business case
   - Active Travel = strongest jury story
