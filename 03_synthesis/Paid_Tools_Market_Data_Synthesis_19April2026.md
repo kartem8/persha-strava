@@ -330,7 +330,44 @@ But it does **not** look like the strongest flagship expansion wedge.
 
 ---
 
-## 12. What These Data Say About The Main Hypotheses
+## 12. Nutrition / Calorie Counter
+
+> ⚠️ **Окремий тип експорту.** Nutrition apps присутні тільки у Revenue-файлах, але відсутні у Downloads-файлах ментора. Нижче — revenue-only дані.
+
+| App | Rev 2023-24 | Rev 2024-25 | Rev 2025-26 | YoY |
+|---|---:|---:|---:|---:|
+| `MyFitnessPal` | $185.5M | $389.6M | $381.8M | -2% (plateau) |
+| `AI Calorie Tracker by Yazio` | $32.7M | $98.4M | $130.9M | +33% |
+| `Cal AI` | $0 | $21.2M | $57.4M | **+172%** |
+| `Lose It!` | $33.6M | $73.4M | $56.3M | -23% |
+| `Foodvisor` | $2.9M | $26.8M | $40.5M | +51% |
+| `Calorie Counter+` | $14.5M | $35.3M | $36.3M | +3% |
+| `MyNetDiary` | $7.0M | $19.1M | $31.4M | +64% |
+| `BitePal` | $0 | $2.4M | $23.9M | **+897%** |
+| `Noom` | $19.4M | $25.3M | $22.2M | -12% |
+| `Cronometer` | $3.9M | $13.6M | $21.8M | +61% |
+| `Calo` | $0 | $0.3M | $9.4M | **+2850%** |
+| `Fitia` | $1.6M | $5.5M | $9.2M | +66% |
+| **КЛАСТЕР TOTAL** | **$301.1M** | **$714.0M** | **$833.2M** | **+17%** |
+
+#### Key comments to keep
+
+- **Найбільший revenue-кластер у всьому датасеті** — у 2.5x більший за Outdoor/Active Travel ($326.6M).
+- Revenue зріс на **+137% за 2 роки** ($301M → $833M).
+- **AI-хвиля re-disrupting ринок:** Cal AI ($0→$57M за 2 роки), Calo (+2850%), BitePal (+897%) — нові entrants швидко відбирають долю у MyFitnessPal.
+- MyFitnessPal плато (-2%) — incumbents вразливі до AI-нативних конкурентів.
+- Downloads-дані для цього кластера відсутні в пакеті ментора (revenue-only export).
+
+#### Interpretation for Strava
+
+- **💬 Ментор (19 Apr 2026):** «Я би нутрішн і калорі каунтери не викидав би з шорт ліста, бо по вигрузці там хороший ринок по грошах в апках».
+- Strava має calorie burn з activity data — природна adjacency до food tracking.
+- Ризик: MyFitnessPal dominant, but AI disruption creates a wedge.
+- Verdict: **CONSIDER** — не top shortlist, але не kill.
+
+---
+
+## 13. What These Data Say About The Main Hypotheses
 
 ### 1. `Strava Escapes / Active Travel`
 
@@ -392,7 +429,27 @@ Best reading:
 - strong signal for feature-layer / premium-retention logic
 - weaker signal for standalone new market wedge
 
-### 5. `Corporate Wellness / Strava for Work`
+### 5. `Nutrition / Calorie Counter`
+
+**Largest revenue cluster in the dataset — strongly supported by data, but fit is a question.**
+
+Why:
+
+- `$833.2M` total revenue 2025-26 — the single largest revenue cluster
+- AI disruption is happening: `Cal AI` ($0→$57M in 2 years), `Calo` (+2850%), `BitePal` (+897%)
+- Mentor explicitly said: keep on shortlist
+- Strava has activity-based calorie burn data — natural adjacency
+
+Best reading:
+
+- this is not a weak market — it is the biggest revenue market in this dataset
+- the fit question (endurance DNA dilution) is real but the AI angle changes the equation
+- best framed as **activity-correlated nutrition / fueling layer**, not generic calorie counter
+- **verdict: CONSIDER**, not kill
+
+---
+
+### 6. `Corporate Wellness / Strava for Work`
 
 **These CSV do not validate it well.**
 
@@ -412,21 +469,23 @@ Best reading:
 
 ---
 
-## 13. Current Ranking Based On These Data
+## 14. Current Ranking Based On These Data
 
 If we rank only by what this paid-tools dataset validates best:
 
-1. **Strava Escapes / Active Travel**
-2. **Coaching / Guided Training / AI Coach**
-3. **Strava Courts / Social Sports**
-4. **Race / Event / Local Experiences**
-5. **Recovery / Longevity**
-6. **Corporate Wellness / B2B Work**
+1. **Strava Escapes / Active Travel** — $326.6M · DL 91.7M · YoY +38%
+2. **Coaching / Guided Training / AI Coach** — $68.7M · DL 7.5M · YoY +71%
+3. **Nutrition / Calorie Counter** — $833.2M · YoY Rev +17% · AI re-disruption
+4. **Strava Courts / Social Sports** — $2.9M in-app (GMV >> app-store) · fastest-growing
+5. **Race / Event / Local Experiences** — 46.7M DL · $14.1M in-app (off-app GMV massive)
+6. **Recovery / Longevity** — demand exists, monetization hardware-led
+7. **Corporate Wellness / B2B Work** — цим датасетом не валідується
 
 Important nuance:
 
-- `Corporate Wellness` may still be strategically smart
-- but **this specific dataset** does not give it the strongest proof
+- `Nutrition` має найбільший revenue-кластер — але fit питання відкрите (ментор: CONSIDER)
+- `Corporate Wellness` may still be strategically smart — but **this specific dataset** does not give it proof
+- `Courts` has the fastest growth rate despite small absolute numbers
 
 ---
 

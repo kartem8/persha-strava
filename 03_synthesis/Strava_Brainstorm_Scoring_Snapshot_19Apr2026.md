@@ -137,6 +137,31 @@ $ Booking+ecosystem · Proto Easy · Evidence Strong.
 🏁 КОНКУРЕНТИ: Playtomic · MATCHi · CourtReserve · Pickleheads
 ```
 
+#### 6. Nutrition / Meal Planning — **L=3** · 🟡 CONSIDER — ринок масивний, ментор override
+
+*Харчування / calorie tracking / performance fueling*
+
+```
+📊 АНАЛІТИКА (Paid_Tools_Synthesis §12)
+Найбільший revenue-кластер у датасеті: $833.2M 2025-26 (+17% YoY).
+Rev по роках: $301M (2023-24) → $714M (2024-25) → $833M (2025-26) = +137% за 2 роки.
+MyFitnessPal $381.8M (plateau -2%) · Yazio $130.9M (+33%) · Cal AI $57.4M (+172%)
+AI-хвиля: Calo +2850% · BitePal +897% — нові AI-native entrants ростуть за рахунок incumbent.
+⚠️ DL-дані відсутні у цьому пакеті (revenue-only export).
+
+🎓 GENESIS FRAMEWORK
+Market HUGE ($833M, найбільший) · Demand Clear · Fit Weak-Medium (dilutes endurance DNA)
+$ STRONG · Proto Medium · Evidence Mixed-positive.
+→ §2.D Fit weak — але market size і ментор-сигнал override стандартний KILL вердикт.
+
+💬 МЕНТОР (19 Apr 2026):
+«Я би нутрішн і калорі каунтери не викидав би з шорт ліста, бо по вигрузці там хороший ринок по грошах в апках».
+
+🏁 КОНКУРЕНТИ: MyFitnessPal · Yazio · Cal AI · Lose It! · Foodvisor · Cronometer
+
+→ Best framed as: activity-correlated fueling layer (не generic calorie counter)
+```
+
 
 ### 🟠 DEPRIORITIZE — сильні на перший погляд, але фреймворк блокує
 
@@ -362,16 +387,6 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 🏁 КОНКУРЕНТИ: Bumble (fitness mode) · Datefit · Fitafy · Hinge
 ```
 
-#### 20. Nutrition / Meal Planning — **L=2** · 🟡 KEEP / WATCHLIST — strong $ signal, weak fit
-
-*Харчування*
-
-```
-🎓 GENESIS §2.D Fit weak (dilutes identity) · §2.C crowded.
-💬 МЕНТОР: «Я би нутрішн і калорі каунтери не викидав би з шорт ліста, бо по вигрузці там хороший ринок по грошах в апках».
-📊 АНАЛІТИКА: Nutrition/calorie apps у market_data = $833.2M revenue і 185.9M downloads у 2025-26; категорія сильна по $.
-🏁 КОНКУРЕНТИ: MyFitnessPal · Noom · Yazio · MacroFactor
-```
 
 #### 21. Youth Sports Logistics — **L=2** · 🚫 KILL — мало грошей
 
@@ -1128,27 +1143,28 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 
 ---
 
-### 19 🟢 — Nutrition / Meal Planning
+### 19 🟡 — Nutrition / Meal Planning
 
-**Сегмент:** Для тих, хто хоче поєднати тренування і харчування
+**Сегмент:** Activity-correlated fueling / calorie tracking / performance nutrition
 
 | Fit | TAM | У Strava | $ | Складн. | Швидк. | Конкур. | Ризик core | **L** |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 4 | Частково | 3 | 4 | 2 | 1 | 3 | 2 |
+| 2 | 5 | Частково | 5 | 3 | 2 | 1 | 3 | **3** |
 
 **🧪 Команда / AI-research:**
 
-> У ранньому synthesis ми занизили ідею через weak fit. Після перевірки market_data видно, що ніша дуже сильна по monetization, але все ще crowded і неідеально fit-иться до Strava DNA.
+> Спочатку занизили через weak fit. Після аналізу market_data і ментор-фідбеку — переведено з KILL у **CONSIDER**. Ринок $833M — найбільший у всьому датасеті ментора. AI-хвиля (Cal AI, Calo, BitePal) re-disrupting incumbent MyFitnessPal. Правильний фрейм: не generic calorie counter, а activity-correlated fueling layer.
 
 **📊 Гроші в ніші (app-store 2025-26):**
 
-> У нашому market_data категорія підтверджена напряму: `13 apps`, `$833.2M revenue`, `185.9M downloads` у `2025-26`.
-> Топ-гравці: `MyFitnessPal` `$381.8M`, `Yazio` `$130.9M`, `Cal AI` `$57.4M`, `Lose It!` `$56.3M`, `Foodvisor` `$40.5M`.
-> → Сильний monetization signal, але crowded category і слабший fit для Strava DNA.
+> `13 apps` · `$833.2M revenue` 2025-26 (+17% YoY) · Revenue: $301M→$714M→$833M (+137% за 2 роки).
+> Топ: `MyFitnessPal` `$381.8M` (plateau -2%) · `Yazio` `$130.9M` (+33%) · `Cal AI` `$57.4M` (+172%)
+> AI-хвиля: `Calo` +2850% · `BitePal` +897% — нові entrants швидко ростуть.
+> ⚠️ DL-дані відсутні в пакеті ментора (revenue-only export для цього кластера).
 
 **🏁 Топ-конкуренти:**
 
-> MyFitnessPal · Noom · Yazio · Lifesum · MacroFactor · Zoe
+> MyFitnessPal · Yazio · Cal AI · Lose It! · Foodvisor · Cronometer · Calo
 
 **💬 Ментор (19 Apr 2026):**
 
@@ -1156,14 +1172,14 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 
 **🎓 Genesis-framework вердикт:**
 
-> Market: Large
+> Market: **HUGE** ($833M — найбільший кластер у датасеті)
 > Demand: Clear
-> Fit: Weak-to-medium only if framed generically
-> $: Strong
+> Fit: Weak if generic, Medium if framed as activity-correlated fueling
+> $: **STRONG** (+137% Rev за 2 роки)
 > Proto: Medium
-> Evidence: Mixed-positive
+> Evidence: **Strong** (пряма data з ментор-пакету)
 >
-> 🟡 KEEP / WATCHLIST — не top priority, але не kill; варто розглядати як performance nutrition / fueling layer, а не generic calorie counter
+> 🟡 **CONSIDER** — L=3. Не top shortlist через fit-питання, але ментор override + market size не дозволяють KILL. Framing: activity-correlated performance nutrition, не generic calorie counter.
 
 ---
 
