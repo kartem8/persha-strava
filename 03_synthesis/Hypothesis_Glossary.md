@@ -70,7 +70,7 @@ Campus-версія Strava: спільноти університетів, rival
 Продукт для силових тренувань: записуєш вправу на камеру, отримуєш базовий аналіз техніки, підказки щодо form і відстеження прогресу в lifting-напрямах.
 
 ### 18. Nutrition / Meal Planning
-Розширення Strava в nutrition layer: meal plans, recipes, macro tracking і рекомендації по харчуванню залежно від цілей, навантаження та способу життя.
+Розширення Strava в nutrition layer: meal plans, recipes, macro tracking і рекомендації по харчуванню залежно від цілей, навантаження та способу життя. Краще читати не як generic calorie counter, а як performance nutrition / fueling layer для активних користувачів.
 
 ## High-Risk Edge Cases
 

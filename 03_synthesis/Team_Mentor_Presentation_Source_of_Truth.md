@@ -312,6 +312,7 @@ Show three groups of hypotheses:
 - Strava Paws / Dog-Friendly Activities
 - AI Strength Form Coach
 - Nutrition / Meal Planning
+  Note: strong app-revenue signal in mentor market_data dump; keep as monetization-validated adjacent, not kill
 
 #### High-risk edge cases
 

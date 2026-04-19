@@ -362,14 +362,14 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 🏁 КОНКУРЕНТИ: Bumble (fitness mode) · Datefit · Fitafy · Hinge
 ```
 
-#### 20. Nutrition / Meal Planning — **L=2** · 🚫 KILL — weak fit + crowded
+#### 20. Nutrition / Meal Planning — **L=2** · 🟡 KEEP / WATCHLIST — strong $ signal, weak fit
 
 *Харчування*
 
 ```
 🎓 GENESIS §2.D Fit weak (dilutes identity) · §2.C crowded.
-💬 МЕНТОР: (без коментарів)
-📊 АНАЛІТИКА: MyFitnessPal, Noom ($3.7B valuation) — winners, Strava late.
+💬 МЕНТОР: «Я би нутрішн і калорі каунтери не викидав би з шорт ліста, бо по вигрузці там хороший ринок по грошах в апках».
+📊 АНАЛІТИКА: Nutrition/calorie apps у market_data = $833.2M revenue і 185.9M downloads у 2025-26; категорія сильна по $.
 🏁 КОНКУРЕНТИ: MyFitnessPal · Noom · Yazio · MacroFactor
 ```
 
@@ -1138,12 +1138,13 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 
 **🧪 Команда / AI-research:**
 
-> Тільки Gemini згадує (H10, 16/25). Weak fit з endurance-брендом; MyFitnessPal/Yazio/Noom домінують. Розмиває ідентичність.
+> У ранньому synthesis ми занизили ідею через weak fit. Після перевірки market_data видно, що ніша дуже сильна по monetization, але все ще crowded і неідеально fit-иться до Strava DNA.
 
 **📊 Гроші в ніші (app-store 2025-26):**
 
-> Не у наших кластерах. Noom $3.7B valuation / MyFitnessPal — поза фокусом датасету.
-> → Дуже crowded категорія, weak fit для Strava DNA.
+> У нашому market_data категорія підтверджена напряму: `13 apps`, `$833.2M revenue`, `185.9M downloads` у `2025-26`.
+> Топ-гравці: `MyFitnessPal` `$381.8M`, `Yazio` `$130.9M`, `Cal AI` `$57.4M`, `Lose It!` `$56.3M`, `Foodvisor` `$40.5M`.
+> → Сильний monetization signal, але crowded category і слабший fit для Strava DNA.
 
 **🏁 Топ-конкуренти:**
 
@@ -1151,18 +1152,18 @@ Demand Unknown · Fit Partial · $ Marketplace ops-heavy · Proto Hard.
 
 **💬 Ментор (19 Apr 2026):**
 
-> (без коментарів)
+> «Я би нутрішн і калорі каунтери не викидав би з шорт ліста, бо по вигрузці там хороший ринок по грошах в апках».
 
 **🎓 Genesis-framework вердикт:**
 
 > Market: Large
 > Demand: Clear
-> Fit: Weak (dilutes)
-> $: Crowded (Noom/MFP)
+> Fit: Weak-to-medium only if framed generically
+> $: Strong
 > Proto: Medium
-> Evidence: Negative
+> Evidence: Mixed-positive
 >
-> 🚫 KILL — weak fit + crowded
+> 🟡 KEEP / WATCHLIST — не top priority, але не kill; варто розглядати як performance nutrition / fueling layer, а не generic calorie counter
 
 ---
 

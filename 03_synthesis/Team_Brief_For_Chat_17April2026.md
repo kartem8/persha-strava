@@ -180,7 +180,7 @@ Campus-версія Strava: спільноти університетів, rival
 Силовий AI-coach: запис вправи на камеру, аналіз техніки, підказки по form і відстеження прогресу у strength training.
 
 **18. Nutrition / Meal Planning**  
-Вихід у nutrition layer: meal plans, recipes, macro tracking і харчові рекомендації залежно від цілей і навантаження.
+Вихід у nutrition layer: meal plans, recipes, macro tracking і харчові рекомендації залежно від цілей і навантаження. Після перевірки `market_data` не варто вбивати цю ідею: категорія сильна по app revenue, але fit для `Strava` слабший, якщо це generic calorie counter.
 
 ### High-risk edge cases
 
