@@ -8,7 +8,7 @@
 
 - 📊 **Аналітика платних тулів** — [Paid_Tools_Market_Data_Synthesis_19April2026.md](Paid_Tools_Market_Data_Synthesis_19April2026.md)
 - 🎓 **Genesis framework** — [Claude_Ready_Genesis_Lectures_Framework_For_Validation.md](Claude_Ready_Genesis_Lectures_Framework_For_Validation.md)
-- 💬 **Фідбек лектора** (19 Apr 2026) — оригінал `~/Desktop/strava_brainstorm (1).xlsx`
+- 💬 **Фідбек ментора** (19 Apr 2026) — оригінал `~/Desktop/strava_brainstorm (1).xlsx`
 - 🧪 **6 AI deep-research** — [02_ai_outputs/](../02_ai_outputs/)
 
 ## Шкала
@@ -30,7 +30,7 @@
 📊 АНАЛІТИКА (Paid_Tools_Synthesis §6, 19 Apr 2026)
 Outdoor/Travel кластер Apr'25→'26: 91.7M DL · $326.6M Rev · YoY DL +37.7%.
 AllTrails: 15.7M DL / $76.0M · komoot: 8.1M DL / $35.3M · Wikiloc: 4.5M DL / $9.7M.
-→ Найчистіша валідація в усьому датасеті лектора.
+→ Найчистіша валідація в усьому пакеті ринкових даних.
 
 🎓 GENESIS FRAMEWORK (§2 + §9)
 Market L+growing · Demand Clear · Fit Strong (Heatmaps+Routes — native)

@@ -1,1 +1,6 @@
 .DS_Store
+
+# Local export artifacts generated from markdown source-of-truth files
+03_synthesis/*.html
+03_synthesis/*.docx
+03_synthesis/*.docx.pdf
