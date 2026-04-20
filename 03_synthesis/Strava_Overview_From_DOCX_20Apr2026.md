@@ -2,8 +2,7 @@
 
 ## Purpose
 
-Цей документ — markdown-версія колегиного файлу
-[Strava Overview.docx](/Users/artemkorneev/Documents/STRAVA/01_inputs/Strava%20Overview.docx).
+Цей документ — markdown-версія файлу Olli
 
 Його задача:
 
