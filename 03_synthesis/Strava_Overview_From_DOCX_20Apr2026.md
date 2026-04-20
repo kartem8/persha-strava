@@ -91,6 +91,90 @@ Main promise captured in the doc:
 
 Strava в цьому аналізі описується не як вузький running app, а як широка active lifestyle platform.
 
+### Additional activity directions captured from product research
+
+Щоб цей overview працював як більш повне джерело правди, нижче зафіксовано activity directions, під які у Strava already є surfaces для спільнот, discovery або event participation.
+
+#### Foot sports
+
+- Run
+- Trail Run
+- Walk
+- Hike
+- Wheelchair
+
+#### Cycle sport
+
+- Ride
+- Mountain Bike Ride
+- Gravel Ride
+- E-Bike Ride
+- E-Mountain Bike Ride
+- HandCycle
+- Velomobile Ride
+
+#### Strength
+
+- Weight Training
+- Workout
+- HIIT
+- Crossfit
+
+#### Racket Sports
+
+- Tennis
+- Padel
+- Pickleball
+- Racquetball
+- Squash
+- Badminton
+- Table Tennis
+
+#### Water Sports
+
+- Swim
+- Surf
+- Stand Up Paddle
+- Windsurf Session
+- Kitesurf Session
+- Kayak
+- Row
+- Canoe
+- Sail
+
+#### Winter Sports
+
+- Ice Skate
+- Alpine Ski
+- Nordic Ski
+- Backcountry Ski
+- Snowboard
+- Snowshoe
+
+#### Team sports
+
+- Football (Soccer)
+- Basketball
+- Volleyball
+- Cricket
+
+#### Other sports
+
+- Inline Skate
+- Roller Ski
+- Rock Climb
+- Elliptical
+- Stair Stepper
+- Yoga
+- Dance
+- Skateboard
+- Golf
+- Pilates
+
+### Main implication for overlap work
+
+Цей перелік важливий для expansion analysis, бо він ще раз показує: Strava already мислить себе не як продукт лише для run / ride, а як широку activity graph platform. Якщо нова ідея спирається лише на те, що в ній є communities, events або tracking для одного з цих напрямків, це ще не означає новий market wedge.
+
 ## 3. Core Functional Layer
 
 ### Basic functionality highlighted in the doc
