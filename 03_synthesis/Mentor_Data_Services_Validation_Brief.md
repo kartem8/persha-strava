@@ -15,8 +15,8 @@ The goal is to use that limited access well:
 
 This file should be used together with:
 
-- [Claude_Code_Open_Validation_Brief.md](/Users/artemkorneev/Documents/STRAVA/Claude_Code_Open_Validation_Brief.md)
-- [Claude_Code_Clean_Synthesis_Brief.md](/Users/artemkorneev/Documents/STRAVA/Claude_Code_Clean_Synthesis_Brief.md)
+- [Claude_Code_Open_Validation_Brief.md](../Claude_Code_Open_Validation_Brief.md)
+- [Claude_Code_Clean_Synthesis_Brief.md](../Claude_Code_Clean_Synthesis_Brief.md)
 
 ## Important Constraint
 

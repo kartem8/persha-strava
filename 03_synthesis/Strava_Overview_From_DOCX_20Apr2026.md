@@ -2,7 +2,8 @@
 
 ## Purpose
 
-Цей документ — markdown-версія файлу Olli
+Цей документ — markdown-версія колегиного файлу
+[Strava Overview.docx](../01_inputs/Strava%20Overview.docx).
 
 Його задача:
 
@@ -12,7 +13,7 @@
 
 ## Source
 
-- Original file: [Strava Overview.docx](/Users/artemkorneev/Documents/STRAVA/01_inputs/Strava%20Overview.docx)
+- Original file: [Strava Overview.docx](../01_inputs/Strava%20Overview.docx)
 - Date captured: `2026-04-20`
 
 ## Executive Summary

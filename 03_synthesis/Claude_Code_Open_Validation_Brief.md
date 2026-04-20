@@ -22,14 +22,14 @@ The goal here is:
 
 ## Source Files To Use
 
-- [17-20_April_Hypothesis_Sprint_Playbook.md](/Users/artemkorneev/Documents/STRAVA/17-20_April_Hypothesis_Sprint_Playbook.md)
-- [Codex_Strava_Expansion_Decision_Pack.md](/Users/artemkorneev/Documents/STRAVA/Codex_Strava_Expansion_Decision_Pack.md)
-- [Perplexity_Strava_Expansion_Hypothesis_Sprint_Output.md](/Users/artemkorneev/Documents/STRAVA/Perplexity_Strava_Expansion_Hypothesis_Sprint_Output.md)
-- [ChatGPT_DeepResearch_Strava_Expansion_Output.md](/Users/artemkorneev/Documents/STRAVA/ChatGPT_DeepResearch_Strava_Expansion_Output.md)
-- [Copilot_ThinkDeeper_Strava_Expansion_Output.md](/Users/artemkorneev/Documents/STRAVA/Copilot_ThinkDeeper_Strava_Expansion_Output.md)
-- [Gemini_DeepResearch_Strava_Expansion_Output.md](/Users/artemkorneev/Documents/STRAVA/Gemini_DeepResearch_Strava_Expansion_Output.md)
-- [Strava_Expansion_Strategy_Research_Report_from_DOCX.md](/Users/artemkorneev/Documents/STRAVA/Strava_Expansion_Strategy_Research_Report_from_DOCX.md)
-- [Claude_Code_Clean_Synthesis_Brief.md](/Users/artemkorneev/Documents/STRAVA/Claude_Code_Clean_Synthesis_Brief.md)
+- [17-20_April_Hypothesis_Sprint_Playbook.md](../17-20_April_Hypothesis_Sprint_Playbook.md)
+- [Codex_Strava_Expansion_Decision_Pack.md](../Codex_Strava_Expansion_Decision_Pack.md)
+- [Perplexity_Strava_Expansion_Hypothesis_Sprint_Output.md](../Perplexity_Strava_Expansion_Hypothesis_Sprint_Output.md)
+- [ChatGPT_DeepResearch_Strava_Expansion_Output.md](../ChatGPT_DeepResearch_Strava_Expansion_Output.md)
+- [Copilot_ThinkDeeper_Strava_Expansion_Output.md](../Copilot_ThinkDeeper_Strava_Expansion_Output.md)
+- [Gemini_DeepResearch_Strava_Expansion_Output.md](../Gemini_DeepResearch_Strava_Expansion_Output.md)
+- [Strava_Expansion_Strategy_Research_Report_from_DOCX.md](../Strava_Expansion_Strategy_Research_Report_from_DOCX.md)
+- [Claude_Code_Clean_Synthesis_Brief.md](../Claude_Code_Clean_Synthesis_Brief.md)
 
 ## How To Treat The Idea Set
 

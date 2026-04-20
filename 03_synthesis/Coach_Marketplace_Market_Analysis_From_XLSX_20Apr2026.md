@@ -3,7 +3,7 @@
 ## Purpose
 
 Цей документ — структурована markdown-версія файлу
-[coach_marketplace_analysis.xlsx](/Users/artemkorneev/Downloads/coach_marketplace_analysis.xlsx),
+`coach_marketplace_analysis.xlsx`,
 який зібрала команда для оцінки ринку `Coach Marketplace`.
 
 Його задача:
@@ -14,7 +14,7 @@
 
 ## Source
 
-- Excel file: [coach_marketplace_analysis.xlsx](/Users/artemkorneev/Downloads/coach_marketplace_analysis.xlsx)
+- Excel file: `coach_marketplace_analysis.xlsx`
 - Date captured: `2026-04-20`
 
 ## Executive Summary

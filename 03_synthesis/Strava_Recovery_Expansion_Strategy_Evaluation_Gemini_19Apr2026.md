@@ -1,7 +1,7 @@
 # Strava Recovery Expansion Strategy Evaluation (Gemini Deep Research)
 
 Source:
-- Extracted from [Strava Recovery Expansion Strategy Evaluation.docx](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava%20Recovery%20Expansion%20Strategy%20Evaluation.docx)
+- Extracted from [Strava Recovery Expansion Strategy Evaluation.docx](Strava%20Recovery%20Expansion%20Strategy%20Evaluation.docx)
 - Saved on April 19, 2026 as a working markdown reference
 
 Status:

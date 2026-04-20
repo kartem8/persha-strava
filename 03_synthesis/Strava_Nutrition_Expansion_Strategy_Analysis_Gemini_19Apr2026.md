@@ -1,7 +1,7 @@
 # Strava Nutrition Expansion Strategy Analysis (Gemini Deep Research)
 
 Source:
-- Extracted from [Strava Nutrition Expansion Strategy Analysis.docx](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava%20Nutrition%20Expansion%20Strategy%20Analysis.docx)
+- Extracted from [Strava Nutrition Expansion Strategy Analysis.docx](Strava%20Nutrition%20Expansion%20Strategy%20Analysis.docx)
 - Saved on April 19, 2026 as a working markdown reference for future synthesis
 
 Status:

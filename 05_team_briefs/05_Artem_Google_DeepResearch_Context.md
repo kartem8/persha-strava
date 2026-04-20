@@ -3,12 +3,12 @@
 Цей файл — компактний контекст-пак для `Google Deep Research` по домашньому завданню `Artem`.
 
 Основний бриф:
-- [05_Artem_LocalExperiences_BookableTours.md](/Users/artemkorneev/Documents/STRAVA/05_team_briefs/05_Artem_LocalExperiences_BookableTours.md:1)
+- [05_Artem_LocalExperiences_BookableTours.md](05_Artem_LocalExperiences_BookableTours.md:1)
 
 Підсилюючі файли:
-- [Claude_Ready_Genesis_Lectures_Framework_For_Validation.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Claude_Ready_Genesis_Lectures_Framework_For_Validation.md:1)
-- [Paid_Tools_Market_Data_Synthesis_19April2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Paid_Tools_Market_Data_Synthesis_19April2026.md:1)
-- [Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md:1)
+- [Claude_Ready_Genesis_Lectures_Framework_For_Validation.md](../03_synthesis/Claude_Ready_Genesis_Lectures_Framework_For_Validation.md:1)
+- [Paid_Tools_Market_Data_Synthesis_19April2026.md](../03_synthesis/Paid_Tools_Market_Data_Synthesis_19April2026.md:1)
+- [Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md](../03_synthesis/Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md:1)
 
 ---
 

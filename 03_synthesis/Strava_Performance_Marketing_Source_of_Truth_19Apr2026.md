@@ -18,8 +18,8 @@
 
 - серія скрінів з Facebook / Meta Ads Library, наданих у цьому треді
 - попередній продуктний baseline:
-  - [Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md)
-  - [Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md)
+  - [Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md](Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md)
+  - [Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md](Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md)
 
 ## How To Read This
 

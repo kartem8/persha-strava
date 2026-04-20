@@ -5,8 +5,8 @@
 Цей документ показує, де наші expansion-ідеї вже перетинаються з тим, що Strava
 **вже робить** за нашим поточним `source of truth`:
 
-- [Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md)
-- [Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md)
+- [Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md](Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md)
+- [Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md](Strava_Brainstorm_Scoring_Snapshot_19Apr2026.md)
 
 ## Scale
 

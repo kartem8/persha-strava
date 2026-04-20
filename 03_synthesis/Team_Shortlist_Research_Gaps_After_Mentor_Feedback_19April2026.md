@@ -6,7 +6,7 @@
 Джерела:
 
 - [strava_brainstorm (1).xlsx](</Users/artemkorneev/Desktop/strava_brainstorm (1).xlsx>)
-- [Paid_Tools_Market_Data_Synthesis_19April2026.md](/Users/artemkorneev/Documents/STRAVA/03_synthesis/Paid_Tools_Market_Data_Synthesis_19April2026.md:1)
+- [Paid_Tools_Market_Data_Synthesis_19April2026.md](Paid_Tools_Market_Data_Synthesis_19April2026.md:1)
 
 ---
 

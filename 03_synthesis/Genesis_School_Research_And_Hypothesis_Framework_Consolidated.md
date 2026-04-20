@@ -5,10 +5,10 @@
 
 Джерела:
 
-- [Lecture 2_Market Research (1).pdf](/Users/artemkorneev/Documents/STRAVA/01_inputs/Lecture%202_Market%20Research%20%281%29.pdf)
-- [Lecture 3_Product Hypothesis Generation (2).pdf](/Users/artemkorneev/Documents/STRAVA/01_inputs/Lecture%203_Product%20Hypothesis%20Generation%20%282%29.pdf)
-- [Lecture 4_Monetization and Business Models.pdf](/Users/artemkorneev/Documents/STRAVA/01_inputs/Lecture%204_Monetization%20and%20Business%20Models.pdf)
-- [Workshop _ Growth Marketing Research_Єва Ухо (2).pdf](/Users/artemkorneev/Documents/STRAVA/01_inputs/Workshop%20_%20Growth%20Marketing%20Research_%D0%84%D0%B2%D0%B0%20%D0%A3%D1%85%D0%BE%20%282%29.pdf)
+- [Lecture 2_Market Research (1).pdf](../01_inputs/Lecture%202_Market%20Research%20%281%29.pdf)
+- [Lecture 3_Product Hypothesis Generation (2).pdf](../01_inputs/Lecture%203_Product%20Hypothesis%20Generation%20%282%29.pdf)
+- [Lecture 4_Monetization and Business Models.pdf](../01_inputs/Lecture%204_Monetization%20and%20Business%20Models.pdf)
+- [Workshop _ Growth Marketing Research_Єва Ухо (2).pdf](../01_inputs/Workshop%20_%20Growth%20Marketing%20Research_%D0%84%D0%B2%D0%B0%20%D0%A3%D1%85%D0%BE%20%282%29.pdf)
 
 ---
 

@@ -1,7 +1,7 @@
 # Lecture 7 Notes: GTM Case Study - HRV to Running
 
 Source:
-- [Lecture 7_Case Study_ Go-to-Market Strategy.pdf](/Users/artemkorneev/Documents/STRAVA/01_inputs/Lecture%207_Case%20Study_%20Go-to-Market%20Strategy.pdf)
+- [Lecture 7_Case Study_ Go-to-Market Strategy.pdf](../01_inputs/Lecture%207_Case%20Study_%20Go-to-Market%20Strategy.pdf)
 - Lecturer: `Max Benival`, founder and CEO of `Ruut by Universe Group`
 - Notes extracted and summarized on April 19, 2026
 

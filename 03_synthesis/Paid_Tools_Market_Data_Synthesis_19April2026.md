@@ -18,7 +18,7 @@
 
 ## 2. Що саме було в даних
 
-У папці [market_data](/Users/artemkorneev/Documents/STRAVA/01_inputs/market_data) є `40` CSV-файлів по:
+У папці [market_data](../01_inputs/market_data) є `40` CSV-файлів по:
 
 - `Unified Downloads`
 - `Unified Revenue`
