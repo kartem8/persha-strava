@@ -2,13 +2,13 @@
 
 ## Purpose
 
-Цей документ — markdown-версія колегиного файлу
+Цей документ — markdown-версія файлу
 [Strava Overview.docx](../01_inputs/Strava%20Overview.docx).
 
 Його задача:
 
 - зберегти зібраний overview Strava в repo у зручному форматі
-- зафіксувати колегин аналіз як окреме джерело правди
+- зафіксувати цей аналіз як окреме джерело правди
 - використати його як reference для подальших shortlist / overlap рішень
 
 ## Source
@@ -280,7 +280,7 @@ The DOCX explicitly mentions:
 
 ### Main implication
 
-The colleague’s analysis already recognizes that Strava is moving beyond core logging into training/coaching via acquisitions.
+This analysis already recognizes that Strava is moving beyond core logging into training/coaching via acquisitions.
 
 This matters because:
 
@@ -352,7 +352,7 @@ For routes:
 
 ### Main implication
 
-The teammate’s analysis shows that user substitution is much broader than "switching to one other app".
+This analysis shows that user substitution is much broader than "switching to one other app".
 
 People can replace pieces of Strava / Runna with:
 
@@ -422,7 +422,7 @@ These JTBDs align strongly with the broader team understanding:
 
 ## 14. What This Document Adds To Our Existing Research
 
-Compared with our existing repo docs, this teammate overview adds useful emphasis on:
+Compared with the existing repo docs, this overview adds useful emphasis on:
 
 - the breadth of Strava’s supported activities
 - monetization layering beyond subscription

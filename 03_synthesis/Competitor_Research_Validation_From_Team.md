@@ -2,7 +2,7 @@
 
 Source reviewed:
 
-- `/Users/artemkorneev/Desktop/Final Project Strava (1).docx`
+- `Final Project Strava (1).docx`
 
 This note keeps only the parts that are worth carrying into the working project docs.
 
@@ -10,7 +10,7 @@ This note keeps only the parts that are worth carrying into the working project 
 
 ### 1. Expanded competitor universe
 
-The teammate document usefully widens the competitor set beyond the obvious consumer tracking apps.
+This document usefully widens the competitor set beyond the obvious consumer tracking apps.
 
 Additional competitors / analogs worth keeping in mind:
 
@@ -53,7 +53,7 @@ It suggests:
 - coaching is less of a pure "white-space" hypothesis and more of an adjacency the company is actively building toward
 - if we pitch coaching, we should frame it as an acceleration of an existing trajectory, not a random new market
 
-### 4. Hypotheses reinforced by the teammate note
+### 4. Hypotheses reinforced by the source note
 
 The note reinforces or supports these already-existing hypotheses:
 

@@ -8,7 +8,7 @@
 
 - 📊 **Аналітика платних тулів** — [Paid_Tools_Market_Data_Synthesis_19April2026.md](Paid_Tools_Market_Data_Synthesis_19April2026.md)
 - 🎓 **Genesis framework** — [Claude_Ready_Genesis_Lectures_Framework_For_Validation.md](Claude_Ready_Genesis_Lectures_Framework_For_Validation.md)
-- 💬 **Фідбек ментора** (19 Apr 2026) — оригінал `~/Desktop/strava_brainstorm (1).xlsx`
+- 💬 **Фідбек ментора** (19 Apr 2026) — оригінал `strava_brainstorm (1).xlsx`
 - 🧪 **6 AI deep-research** — [02_ai_outputs/](../02_ai_outputs/)
 
 ## Шкала

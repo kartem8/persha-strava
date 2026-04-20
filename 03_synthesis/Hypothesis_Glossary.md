@@ -6,7 +6,7 @@ It includes:
 
 - ideas generated through AI research
 - synthesis-based ideas
-- additional non-duplicate ideas from teammate ideation references
+- additional non-duplicate ideas from ideation references
 
 Rule:
 

@@ -16,7 +16,7 @@
 
 Джерела цього документа:
 
-- серія скрінів з Facebook / Meta Ads Library, наданих у цьому треді
+- серія скрінів з Facebook / Meta Ads Library
 - попередній продуктний baseline:
   - [Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md](Strava_Product_Source_of_Truth_From_Figma_19Apr2026.md)
   - [Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md](Strava_Ideas_Overlap_With_Current_Product_19Apr2026.md)
